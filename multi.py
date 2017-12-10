@@ -1,4 +1,5 @@
-a=2
-b=4
+a=input("Enter 1st no:\n")
+b=input("Enter 2nd no:\n")
 
 print a*b
+
