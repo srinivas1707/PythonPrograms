@@ -1,3 +1,3 @@
 
-print "Hello World,test fine!!!"
-print "looks Great"
+print("Hello World,test fine!!!")
+print ("looks Great")
