@@ -1,0 +1,5 @@
+text=input("Enter the text:")
+to_list=list(text)
+to_tuple=tuple(to_list)
+print(to_list)
+print(to_tuple)
