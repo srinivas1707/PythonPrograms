@@ -1,0 +1,7 @@
+First=list(input("Enter the First name:"))
+Last=list(input("Enter the Last name:"))
+First.reverse()
+Last.reverse()
+Last_1=''.join(First)
+First_1=''.join(Last)
+print(First_1+' '+Last_1)
